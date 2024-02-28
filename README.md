@@ -1,0 +1,1 @@
+Dieses Skript begrüßt einen Nutzer.
